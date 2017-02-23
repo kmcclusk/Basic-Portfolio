@@ -39,16 +39,17 @@ nav.container {
 	border: .2em solid white;
 	float:left;
 	width:100%;
-	font-size:280%;
+	font-size:250%;
 	padding-top:10px;
 	padding-bottom:10px;
+	text-align:center;
 }
 a.navigation {
 	text-decoration:underline overline;
 	color:white;
-	float:left;
+	padding-left:15%;
 	text-align:center;
-	padding-left:20%;
+	float:left;
 }
 a:visited {
 	text-decoration:none;
@@ -111,7 +112,7 @@ div.contact {
 	border: .5em solid white;
 	background-image: url("http://i.imgur.com/X1LBakq.jpg");
 	font-family:Playfair Display, Helvetica;
-	font-size: 30px;
+	font-size: 25px;
 	color:#1E1B1A;
 }
 p.info {
