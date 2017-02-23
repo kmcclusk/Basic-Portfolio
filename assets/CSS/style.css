@@ -2,7 +2,7 @@ body {
 	background-color: #2F824A;
 	margin: 0 auto;
 	line-height:20px;
-	font-family:Dense, Helvetica;
+	font-family:Playfair Display, Helvetica;
 	color:white;
 }
 header{
@@ -54,7 +54,7 @@ a:visited {
 	text-decoration:none;
 }
 h1 {
-	font-family: Dense, Helvetica;
+	font-family: Playfair Display, Helvetica;
 	font-size: 600%;
 	font-color:#2F2929;
 	padding-top:40px;
@@ -72,7 +72,7 @@ div.content {
 	margin-bottom:20px;
 }
 p.aboutme {
-	font-family: Nevis, Helvetica;
+	font-family: Raleway, Helvetica;
 	width:auto;
 	height:auto;
 	min-width:400px;
@@ -84,7 +84,7 @@ img.polaroid {
 	margin-bottom:10px;
 }
 .sidebar {
-	font-family:Nevis, Helvetica;
+	font-family: Raleway, Helvetica;
 	font-size:50px;
 	width: 25%;
 	background-image:url("http://demandware.edgesuite.net/aamm_prd/on/demandware.static/-/Sites-joann-product-catalog/default/dw103f4ead/images/hi-res/65/6595268.jpg");
@@ -110,7 +110,7 @@ div.contact {
 	float:left;
 	border: .5em solid white;
 	background-image: url("http://i.imgur.com/X1LBakq.jpg");
-	font-family:Dense, Helvetica;
+	font-family:Playfair Display, Helvetica;
 	font-size: 30px;
 	color:#1E1B1A;
 }
@@ -138,7 +138,7 @@ input.button {
 	background-color: #2F824A;
 	border:none;
 	padding: 16px 32px;
-	font-family: Dense, Helvetica;
+	font-family: Playfair Display, Helvetica;
 	font-size: 25px;
 }
 img.kate {
